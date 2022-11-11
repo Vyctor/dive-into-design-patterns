@@ -1,8 +1,8 @@
 # Estudos do livro Dive Into Design Patterns
 
-1. [Programação Orientada a Objetos](object-oriented-programming/readme.md)
-2. [Introdução aos Padrões de Projetos](design-patterns-introduction/readme.md)
-3. [Princípios de Projeto de Software](software-design-principles/readme.md)
+1. [Programação Orientada a Objetos](1.object-oriented-programming/readme.md)
+2. [Introdução aos Padrões de Projetos](2.design-patterns-introduction/readme.md)
+3. [Princípios de Projeto de Software](3.software-design-principles/readme.md)
 
 ## Design Patterns
 
